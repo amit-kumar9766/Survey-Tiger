@@ -1,7 +1,6 @@
 import React,{useState} from 'react';
 import './Publish.css';
 import '@fortawesome/fontawesome-free/css/all.min.css';
-import CropSquareIcon from '@material-ui/icons/CropSquare';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCircle, faSquare} from "@fortawesome/free-solid-svg-icons";
 import Navbar from './Navbar'

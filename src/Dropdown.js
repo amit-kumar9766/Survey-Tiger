@@ -3,9 +3,6 @@ import { MDBCol} from "mdbreact";
 import {BrowserRouter as Router, Switch, Route ,Link,Redirect} from "react-router-dom";
 import { useHistory } from "react-router-dom";
 import './Dropdown.css';
-import AddIcon from '@material-ui/icons/Add';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faAdd } from "@fortawesome/free-solid-svg-icons";
 import Navbar from './Navbar';
 
 
