@@ -1,0 +1,43 @@
+.publish__full{
+    padding:20px;
+    display:grid;
+    place-items: center;
+}
+.publish__square{
+    margin-top: 20px;
+    background-color: lightyellow;
+    width:400px
+}
+.publish__full>p{
+     font-size:16px;
+}
+.btn__survey{
+    margin-top: 50px ;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color:lightseagreen;
+    height:30px;
+    border-radius:10px;
+    border:none;
+    margin:10px;
+}
+
+.obj__question{
+    padding:20px;
+    font-size:20px;
+    letter-spacing: 3px;
+}
+.publish__square>h5{
+    margin-left:20px !important;
+    margin-bottom:10px;
+    letter-spacing: 3px;
+}
+.publish__square>p{
+    padding-right:40px!important;
+    padding-left:40px;
+}
+
+.square{
+    margin-right:10px;
+}

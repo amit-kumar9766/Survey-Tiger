@@ -1,0 +1,29 @@
+.survey__tiger{
+    margin-top: 100px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+
+}
+.survey__body{
+    background-color: aliceblue;
+    margin: auto;
+    padding:100px;
+}
+.survey__body>h1{
+    display:'flex'!important;
+    justify-content: center;
+    color:black;
+}
+.survey__btn{
+    background-color:lightseagreen;
+    height:50px;
+    border-radius:10px;
+    border:none;
+    margin:10px;
+}
+.survey__btn:focus {
+    outline: none;
+}
+
+
