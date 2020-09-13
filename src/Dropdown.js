@@ -70,7 +70,7 @@ const Dropdown=(props)=>{
     setlist(1)
     setValue(3)
     
-    setOptions({option1:'',option2:'',option3:'',option4:''})
+    setOptions({option1:'',option2:'',option3:'',option4:'',option5:'',option6:''})
     setQuestion('')
     }
     

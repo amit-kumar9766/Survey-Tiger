@@ -40,12 +40,7 @@ const Publish=(props)=>{
           <div className="publish__square">
             <div className="obj__question">{object.question}</div>
             <h5>Options</h5>
-            {/* <p><FontAwesomeIcon className='square' icon={faSquare}/> 
-               {object.options.option1}</p> 
-
-            <p>{object.options.option3?<FontAwesomeIcon className='square' icon={faSquare}/> 
-            :<FontAwesomeIcon className='square' icon={faCircle}/>}
-               {object.options.option2}</p> */}
+            
            {object.options.option5!==""?
             (<>
             <p><FontAwesomeIcon style={{color:'white',borderRadius:'50%',border:'1px solid black'}}icon={faCircle}/>   {object.options.option5}</p> 
